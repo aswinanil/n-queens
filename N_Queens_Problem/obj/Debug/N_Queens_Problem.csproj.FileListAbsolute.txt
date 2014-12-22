@@ -1,0 +1,5 @@
+c:\users\aswin\documents\visual studio 2012\Projects\N_Queens_Problem\N_Queens_Problem\bin\Debug\N_Queens_Problem.exe.config
+c:\users\aswin\documents\visual studio 2012\Projects\N_Queens_Problem\N_Queens_Problem\bin\Debug\N_Queens_Problem.exe
+c:\users\aswin\documents\visual studio 2012\Projects\N_Queens_Problem\N_Queens_Problem\bin\Debug\N_Queens_Problem.pdb
+c:\users\aswin\documents\visual studio 2012\Projects\N_Queens_Problem\N_Queens_Problem\obj\Debug\N_Queens_Problem.exe
+c:\users\aswin\documents\visual studio 2012\Projects\N_Queens_Problem\N_Queens_Problem\obj\Debug\N_Queens_Problem.pdb
